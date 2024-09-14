@@ -4,13 +4,13 @@ Dashboard project to showcase my skills in React. following Jonas Schmedtmann ul
 
 ### Tools and packages
 
-react-query
-react-error-boundary
-react-hook-form
-react-hot-toast
-react-icons
-react-router-dom
-recharts
-styled-components
-date-fns
+react-query <br /> 
+react-error-boundary <br />
+react-hook-form <br />
+react-hot-toast <br />
+react-icons <br />
+react-router-dom <br />
+recharts <br />
+styled-components <br />
+date-fns <br />
 supabase
