@@ -47,6 +47,7 @@ const StyledNavLink = styled(NavLink)`
 
 	&:hover svg,
 	&:active svg,
+	&.active span,
 	&.active:link svg,
 	&.active:visited svg {
 		color: var(--color-brand-600);
